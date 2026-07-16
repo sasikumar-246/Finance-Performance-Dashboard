@@ -128,7 +128,7 @@ The project follows a structured data modeling approach using:
 
 ## Executive Overview
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](Images/Screenshot 2026-07-16 214922.png)
 
 
 ## Financial Performance
