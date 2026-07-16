@@ -179,6 +179,6 @@ Finance-Analytics-Dashboard
 
 # 👨‍💻 Author
 
-**Sasikumar**
+**Sasikumar S**
 
 Data Analyst Portfolio Project
