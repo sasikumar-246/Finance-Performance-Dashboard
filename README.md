@@ -130,6 +130,7 @@ The project follows a structured data modeling approach using:
 
 ![Executive Overview](Images/Executive_Overview.png)
 
+
 ## Financial Performance
 
 ![Financial Performance](Images/Financial_Performance.png)
